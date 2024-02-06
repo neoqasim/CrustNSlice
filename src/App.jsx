@@ -6,6 +6,7 @@ import HeadlineCard from './components/HeadlineCard'
 import './index.css'
 import Food from './components/Food'
 import Category from './components/Category'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <HeadlineCard />
       <Food />
       <Category />
+      <Footer />
     </>
 
   )
