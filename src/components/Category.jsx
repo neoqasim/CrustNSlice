@@ -4,7 +4,7 @@ const Category = () => {
     console.log(categories);
     return (
         <div className='max-w-[1600px] px-4 py-12 m-auto shadow brder shadow-orange-500' >
-            <h1 className='text-orange-600 font-bold text-4xl text-center my-4 p-4'>Top Rated Menu Items</h1>
+            <h1 className='text-orange-600 font-bold text-4xl text-center my-4 p-4'>Top Rated Catgories</h1>
             <div className='grid sm:grid-cols-2  md:grid-cols-3 gap-4 lg:w-3/4 mx-auto'>
                 {categories.map((singleCategory) => (
                     <>

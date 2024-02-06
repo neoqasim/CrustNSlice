@@ -13,7 +13,7 @@ const Footer = () => {
                     <a href="https://www.linkedin.com/in/neoqasim/" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin className="text-gray-600 hover:text-orange-600" size={32} />
                     </a>
-                    <a href="https://twitter.com/neoqasim" target="_blank" rel="noopener noreferrer">
+                    <a href="https://twitter.com/aceqasim" target="_blank" rel="noopener noreferrer">
                         <FaTwitter className="text-gray-600 hover:text-orange-600" size={32} />
                     </a>
                 </div>
